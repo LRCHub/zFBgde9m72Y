@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "永遠に違うよ。/アメリカ民謡研究会",
+  "base_artist": "アメリカ民謡研究会",
+  "createdAt": "2026-04-03T10:50:03.066367Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "永遠に違うよ。",
+      "artist": "アメリカ民謡研究会",
+      "has_synced": false,
+      "path": "select/pl_01_永遠に違うよ。_アメリカ民謡研究会.txt"
+    }
+  ]
+}
